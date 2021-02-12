@@ -31,10 +31,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" 
             alt="cucumber" width="40" height="40" />
     </a>
-    <a href="https://testng.org/" target="_blank">
-        <img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png"
-            alt="TestNG" width="120" height="40" />
-    </a>
     <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
             alt="java" width="40" height="40" />
@@ -54,6 +50,10 @@
     <a href="https://jmeter.apache.org/" target="_blank">
         <img src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png"
             alt="JMeter" width="120" height="40" />
+    </a>
+    <a href="https://testng.org/" target="_blank">
+        <img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png"
+            alt="TestNG" width="120" height="40" />
     </a>
 </p>
 
