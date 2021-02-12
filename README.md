@@ -11,10 +11,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/manuel-fdo-munoz/">
-    <img align="left" alt="Manuel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Manuel's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://github.com/manfer993">
-    <img align="left" alt="Manuel's GitHub" width="22px" src="https://avatars.githubusercontent.com/in/15368?s=48&v=4" />
+    <img align="left" alt="Manuel's GitHub" width="40px" src="https://avatars.githubusercontent.com/in/15368?s=48&v=4" />
   </a>
   </br>
 </p>
